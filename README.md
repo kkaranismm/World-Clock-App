@@ -25,7 +25,7 @@ A real-time world clock application built with Streamlit that allows users to:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/world-clock-app.git
+git clone https://github.com/kkaranismm/world-clock-app.git
 cd world-clock-app
 ```
 

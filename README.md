@@ -106,8 +106,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Built with [Streamlit](https://streamlit.io/)
 - Weather data provided by [OpenWeatherMap](https://openweathermap.org/)
 - Mapping functionality powered by [Folium](https://python-visualization.github.io/folium/)
-- Developed by CO21332 & CO21330
-
-## Support
-
-For support, email your-email@domain.com or open an issue in the GitHub repository.
+- Developed by Karandeep Singh

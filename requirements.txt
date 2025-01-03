@@ -7,3 +7,4 @@ requests
 timezonefinder
 streamlit-folium
 folium
+An API key from OPENWEATHERMAP
